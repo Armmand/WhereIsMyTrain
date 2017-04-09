@@ -1,0 +1,10 @@
+.container{
+	background-image: url(../images/trainTracks.jpg);
+}
+
+.jumbotron{
+	background-color:white;
+	background-image: url(../images/train.jpg);
+	background-repeat:no-repeat;
+	color:darkblue;">
+}
