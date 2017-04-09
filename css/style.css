@@ -1,10 +1,16 @@
 .container{
-	background-image: url(../images/trainTracks.jpg);
+	background-image: url(../images/pexels-photo-164308.jpeg);
 }
 
 .jumbotron{
-	background-color:white;
-	background-image: url(../images/train.jpg);
+	background-color: lightgray;
+	background-image: url(../images/pexels-photo-164308);
 	background-repeat:no-repeat;
 	color:darkblue;">
+	text-align: center;
+
+{
+
+h1 {
+text-align: center;
 }
