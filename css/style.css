@@ -1,16 +1,15 @@
 .container{
 	background-image: url(../images/pexels-photo-164308.jpeg);
+
 }
 
 .jumbotron{
-	background-color: lightgray;
-	background-image: url(../images/pexels-photo-164308);
+	background-color: blue;
+	background-image: url(../images/pexels-photo-104859.jpeg);
 	background-repeat:no-repeat;
-	color:darkblue;">
-	text-align: center;
-
-{
-
-h1 {
-text-align: center;
+	color: white;">
+	text-align: right;
+	
 }
+
+
